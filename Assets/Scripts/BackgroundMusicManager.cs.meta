@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d111958c107264c529634fc99e43395c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sceneL1Music: {fileID: 8300000, guid: 1abb24b374d574a66935fddcbe61174d, type: 3}
+  - sceneL2Music: {fileID: 8300000, guid: 282ee594fba3241a4a82a4a69506bb31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
